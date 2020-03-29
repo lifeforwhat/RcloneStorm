@@ -6,34 +6,19 @@
 # SPEED
 경기도 북부 지역 KT 8회선 기준
 385.59 Mbps
+
 403.35 Mbps
+
 375.43 Mbps
+
 361.84 Mbps
+
 391.52 Mbps
+
 394.76 Mbps
+
 378.95 Mbps
-345.77 Mbps
-356.47 Mbps
-378.73 Mbps
-390.16 Mbps
-374.88 Mbps
-389.76 Mbps
-379.25 Mbps
-391.96 Mbps
-380.55 Mbps
-385.04 Mbps
-396.42 Mbps
-381.60 Mbps
-380.38 Mbps
-397.80 Mbps
-400.00 Mbps
-370.67 Mbps
-397.47 Mbps
-389.59 Mbps
-374.52 Mbps
-390.06 Mbps
-394.63 Mbps
-354.00 Mbps
+
 
 
 # LOG
