@@ -216,9 +216,9 @@ if __name__ == '__main__':
     # 0 이면 파일만
     # 1이면 폴더\파일
     # Example )
-    # 값이 1이면, F:\@ POOQ\[5GX] 월드베스트 그곳에 가면- 최고의 도시\E46.mp4 에서 [5GX] 월드베스트 그곳에 가면- 최고의 도시\E46.mp4 를 말하는 것으로,
-    # TV\\TEMP\\[5GX] 월드베스트 그곳에 가면- 최고의 도시\E46.mp4 이런 식으로 올라간다.
-    # 값이 0이면 TV\\TEMP\\E46.mp4 이런 식으로 올라간다.
+    # 값이 1이면, F:\@ POOQ\KBS 뉴스\KBS_NEWS_20190128-NEXT.mp4 에서 KBS 뉴스\KBS_NEWS_20190128-NEXT.mp4 를 말하는 것으로,
+    # TV\TEMP\KBS 뉴스\KBS_NEWS_20190128-NEXT.mp4 이런 식으로 올라간다.
+    # 값이 0이면 TV\TEMP\KBS_NEWS_20190128-NEXT.mp4 이런 식으로 올라간다.
     folder_depth = 1
 
     # except_ip_list 는 해당 아이피는 무시
