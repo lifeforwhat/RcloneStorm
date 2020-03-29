@@ -1,6 +1,8 @@
 # RcloneStorm
 
 # INTRO
+![intro](https://user-images.githubusercontent.com/59600370/77850666-08723600-720f-11ea-9f52-3b33f31d27d7.jpg)
+
 멀티프로세싱을 이용해 NIC 별로 트래픽을 분산해 최대한 빠르게 특정 팀 드라이브로 특정 폴더 내에 있든 모든 파일들을 쑤셔박는 PYTHON 스크립트
 
 # SPEED
